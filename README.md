@@ -1,4 +1,3 @@
-
 I am a passionate developer with a keen interest in building impactful software. My expertise lies in **full-stack development**.
 
 ## 🛠️ Skills & Technologies
@@ -11,12 +10,11 @@ I am a passionate developer with a keen interest in building impactful software.
 ## 📈 GitHub Stats
 
 ### Summary Cards
-https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg
-https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg
-https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg
-https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/3-stats.svg
-https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg
-
+![Profile Details](https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+![Repos Per Language](https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)
+![Most Commit Language](https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)
+![Stats](https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/3-stats.svg)
+![Productive Time](https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
 
 ### Detailed Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-Jafor-Sadek-Khan&show_icons=true&theme=ayu_mirage)
