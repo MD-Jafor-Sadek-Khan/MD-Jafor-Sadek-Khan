@@ -1,24 +1,13 @@
 # Hi there, I'm MD Jafor Sadek Khan 👋
 
-I am a passionate developer with a keen interest in building impactful software. My expertise lies in **full-stack development**, **cloud computing**, and **data science**.
+I am a passionate developer with a keen interest in building impactful software. My expertise lies in **full-stack development**.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** JavaScript, Python, Java, C++, TypeScript, Ruby
-- **Frameworks:** React, Node.js, Django, Flask, Spring Boot, Angular
-- **Tools:** Git, Docker, Kubernetes, Jenkins, Webpack, Babel, VS Code
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite
-- **Cloud Services:** AWS (EC2, S3, Lambda), Azure, Google Cloud Platform (GCP), Heroku
-- **DevOps:** CI/CD, Terraform, Ansible, Prometheus, Grafana
-- **Testing:** Jest, Mocha, Chai, Selenium, JUnit, PyTest
-- **Others:** RESTful APIs, GraphQL, WebSockets, Microservices, Serverless Architecture
-
-## 🥅 Goals
-- **2019 Goals:** To solve 1000+ problems and participate in ICPC Dhaka Regional (Done both)
-- **2020 Goals:** To become a Codeforces pupil and solve 2000+ problems (Done both)
-- **2021 Goals:** To become a Codeforces specialist, learn web development, and get a job (Done all)
-- **2022 Goals:** To crack a tech giant (Microsoft cracked and recommended as Software Engineer)
-- **2023 Goals:** To bring the love of my life home (Done)
-- **2024 Goals:** To become a Backend Engineer (Done)
+- **Languages:** JavaScript, Python, C++, TypeScript
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VS Code
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Others:** RESTful APIs
 
 ## 📈 GitHub Stats
 
