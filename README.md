@@ -10,8 +10,6 @@ I am a passionate developer with a keen interest in building impactful software.
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-Jafor-Sadek-Khan&show_icons=true&theme=ayu_mirage)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Jafor-Sadek-Khan&layout=compact&theme=ayu_mirage)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MD-Jafor-Sadek-Khan&layout=compact&theme=ayu_mirage)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-Jafor-Sadek-Khan&theme=ayu-mirage)
 
 ### Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MD-Jafor-Sadek-Khan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
