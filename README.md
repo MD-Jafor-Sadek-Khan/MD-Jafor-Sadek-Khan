@@ -1,4 +1,3 @@
-# Hi there, I'm MD Jafor Sadek Khan 👋
 
 I am a passionate developer with a keen interest in building impactful software. My expertise lies in **full-stack development**.
 
@@ -12,7 +11,7 @@ I am a passionate developer with a keen interest in building impactful software.
 ## 📈 GitHub Stats
 
 ### Summary Cards
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/MD-Jafor-Sadek-Khan/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
