@@ -22,7 +22,7 @@ I am a passionate developer with a keen interest in building impactful software.
 
 ### GitHub Extra Pins
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MD-Jafor-Sadek-Khan&repo=repo1&theme=ayu_mirage)](https://github.com/MD-Jafor-Sadek-Khan/Orange-Website-in-Django.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MD-Jafor-Sadek-Khan&repo=repo2&theme=ayu_mirage)](https://github.com/MD-Jafor-Sadek-Khan/ZTM--Crwn-Clothing--React--Redux-SAGA--with-TypeScript.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MD-Jafor-Sadek-Khan&repo=repo2&theme=ayu_mirage)]([https://github.com/MD-Jafor-Sadek-Khan/ZTM--Crwn-Clothing--React--Redux-SAGA--with-TypeScript.git](https://github.com/MD-Jafor-Sadek-Khan/ZTM--Crwn-Clothing--React--Redux-SAGA--with-TypeScript.git))
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-Jafor-Sadek-Khan&theme=react-dark)
