@@ -1,12 +1,11 @@
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div align="left">
-      # 👨‍💻 About Me
-      I am a passionate developer with a keen interest in building impactful software. My expertise lies in **full-stack development**.
-    </div>
-    <div align="right">
-      ![Profile Views](https://komarev.com/ghpvc/?username=MD-Jafor-Sadek-Khan&color=blue)
-    </div>
+<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <div align="left">
+    <h1>👨‍💻 About Me</h1>
+    <p>I am a passionate developer with a keen interest in building impactful software. My expertise lies in <strong>full-stack development</strong>.</p>
+  </div>
+  <div align="right">
+    <h3>Profile Views</h3>
+    <img src="https://komarev.com/ghpvc/?username=MD-Jafor-Sadek-Khan&color=blue" alt="Profile Views" />
   </div>
 </div>
 
@@ -52,3 +51,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-Jafor-Sadek-Khan&theme=react-dark" alt="Contribution Graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-Jafor-Sadek-Khan&theme=ayu-mirage" alt="Contribution Streak" />
 </div>
+
+---
